@@ -16,13 +16,5 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep017i&layout=compact&theme=radical&langs_count=8)
   
 ---
-<!-- Animated Footer -->
-<div align="center">
-  <h3>📫 Let's Connect!</h3>
-  <p>Open for collaborations and exciting opportunities</p>
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=deep017i&color=blueviolet&style=flat-square)
-  
-  <!-- Star Animation -->
-  <img src="https://avisek.codeltix.com/globe.mp4" width="200">
-</div>
