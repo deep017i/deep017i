@@ -24,5 +24,5 @@
   ![Visitor Count](https://komarev.com/ghpvc/?username=deep017i&color=blueviolet&style=flat-square)
   
   <!-- Star Animation -->
-  <img src="https://avisek.codeltix.com/globe.mp4" width="100">
+  <img src="https://avisek.codeltix.com/globe.mp4" width="200">
 </div>
