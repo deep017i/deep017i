@@ -10,8 +10,6 @@
 <h3 align="center">🔥 GitHub Stats</h3>
 <div align="center">
   
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep017i&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=24)
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep017i&layout=compact&theme=radical&langs_count=8)
   
 ---
